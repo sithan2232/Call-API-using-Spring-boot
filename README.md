@@ -1,1 +1,1 @@
-# Call-API-using-Spring-boot(PART 2)
+# Practice-Spring-Boot(PART 2)
